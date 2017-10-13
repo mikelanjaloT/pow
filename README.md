@@ -11,5 +11,5 @@
   10.Get-Process  
   11.query  
   
- **Çalıştırmak için** 
+ **Çalıştırmak için**  
  iex (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/mikelanjaloT/pow/master/winEnum.ps1')
